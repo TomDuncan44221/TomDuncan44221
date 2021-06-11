@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on being a self employed programmer
+🌱 I’m currently learning everything my previous employer should have taught me and Rust
+💬 Ask me about C/C++, Rust, Autism, Equality Law, BioChemistry and TIE Fighters
+😄 Pronouns: He/him/they
